@@ -1,5 +1,5 @@
 //find
-package Array;
+
 import java.util.*;
 public class search {
 

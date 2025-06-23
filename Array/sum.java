@@ -1,5 +1,5 @@
     //max -min
-    package Array;
+
     import java.util.*;
     public class sum {
 

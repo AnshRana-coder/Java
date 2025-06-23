@@ -1,5 +1,5 @@
 //barchart
-package Array;
+
 import java.util.*;
 public class barChart {
 
