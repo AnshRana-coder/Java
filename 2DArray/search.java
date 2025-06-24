@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class search {
+public class search{
     public static void search(int[][] arr, int x){
         
         for(int i =0,j=arr.length-1;i<arr.length&&j>0;){
