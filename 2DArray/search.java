@@ -13,7 +13,6 @@ public class search{
                 }else{
                     i++;
                 }
-            
         }
         
         System.out.print("NOt found");
