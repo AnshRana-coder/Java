@@ -18,6 +18,7 @@ public class disapperingno {
 
         return result;
     }
+    
     public static void main(String[] args) {
         
     }
