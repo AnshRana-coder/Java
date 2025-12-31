@@ -8,6 +8,7 @@ public class 3sum {
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
             int left = i + 1;
+            
             int right = nums.length - 1;
 
             while (left < right) {
